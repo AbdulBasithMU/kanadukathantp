@@ -66,7 +66,7 @@
 		======================================*/
 		
 		//Image Background 
-		$(".image-background").backstretch(["images/Greenvillage.jpg","images/dreamvillage.jpg","images/BgImg1.jpg"],{duration: 4000,fade: 850});
+		$(".image-background").backstretch(["images/Greenvillage.jpg","images/dreamvillage.jpg"],{duration: 4000,fade: 850});
 		
 		
 		
